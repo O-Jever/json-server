@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "hash": "d033e22ae348aeb5660fc2140aec35850c4da997",
+      "login": "admin",
+      "password": "12345"
+    },
+    {
+      "id": 2,
+      "hash": "a94a8fe5ccb19ba61c4c0873d391e987982fbbd3",
+      "login": "test",
+      "password": "test"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "user": "test",
+      "name": "Вася Пупкин",
+      "phone": "+70000000000",
+      "email": "vassya.pupkin@gmail.com"
+    },
+    {
+      "id": 2,
+      "user": "test",
+      "name": "Пуся Васькин",
+      "phone": "+71111111111",
+      "email": "pusya.vaskin@gmail.com"
+    },
+    {
+      "name": "Иван Иванчин",
+      "phone": "+79001122333",
+      "email": "ivan.ivanchin@gmail.com",
+      "user": "test",
+      "id": 3
+    },
+    {
+      "name": "Пася Вупкин",
+      "phone": "+79112222222",
+      "email": "pasya.vupkin@gmail.com",
+      "user": "test",
+      "id": 5
+    },
+    {
+      "name": "Василий Васильев",
+      "phone": "+79001100111",
+      "email": "vasiliy.vasilev@gmail.com",
+      "user": "test",
+      "id": 6
+    }
+  ]
+}
