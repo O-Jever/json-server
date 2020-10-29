@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch data.json --port $PORT"
+    "start": "json-server --watch data.json --port $PORT --host 'json-server-for-jever.herokuapp.com'"
   },
   "author": "",
   "license": "ISC",
